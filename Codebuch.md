@@ -14,13 +14,19 @@ Wir unterscheiden zwischen drei Arten von Akteuren (Vereinigung, Partei, Privatp
 ## EDGE-Attribute ##
 
 **id**
+
 (eindeutige Kodierung des Knoten)
+
 Codiert von 1 bis …, jede ID entspricht einem Akteur 
 
 **relation**
+
 Beziehungsart zwischen den Akteuren
+
 1= Mitglied 
+
 2= Anhänger (meist bei aufgelösten Vereinigungen wie dem Flügel)
+
 3= Sympathisant (Akteur äußert sich positiv über Vereinigung)
 
 **years** 
