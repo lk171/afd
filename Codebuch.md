@@ -58,6 +58,8 @@ Rechte Äußerungen in sozialen Medien oder bei Reden
 2= nein
 
 **protest** 
+
 Teilnahme an als rechts eingestuften Demonstrationen
+
 1=ja
 2=nein
