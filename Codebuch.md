@@ -23,7 +23,9 @@ Beziehungsart zwischen den Akteuren
 2= Anhänger (meist bei aufgelösten Vereinigungen wie dem Flügel)
 3= Sympathisant (Akteur äußert sich positiv über Vereinigung)
 
-**years (Dauer der Beziehung bis 2021)**
+**years** 
+Dauer der Beziehung bis 2021
+
 
 ## NODE-Attribute ##
 
@@ -36,7 +38,8 @@ Vorname des Akteurs (bei realer Person)
 **name**
 Nachname oder Name der Vereinigung
 
-**type** (Art des Akteurs)
+**type** 
+Art des Akteurs
 1= Partei
 2= Vereinigung
 3= Privatperson
@@ -58,8 +61,6 @@ Rechte Äußerungen in sozialen Medien oder bei Reden
 2= nein
 
 **protest** 
-
 Teilnahme an als rechts eingestuften Demonstrationen
-
 1=ja
 2=nein
