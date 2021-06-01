@@ -11,7 +11,7 @@ Dabei untersuchen wir die als rechtsextremistisch eingestuften Vereinigungen Jun
 Wir unterscheiden zwischen drei Arten von Akteuren (Vereinigung, Partei, Privatperson) und drei verschiedenen Beziehungsarten zwischen den Akteuren (Mitglied, Sympathisant, Anhänger).
 
 
-# EDGE-Attribute #
+## EDGE-Attribute ##
 
 **id**
 (eindeutige Kodierung des Knoten)
@@ -25,7 +25,7 @@ Beziehungsart zwischen den Akteuren
 
 **years (Dauer der Beziehung bis 2021)**
 
-# NODE-Attribute #
+## NODE-Attribute ##
 
 **id**
 Identische ID wie aus der edgelist zur Identifikation der Knoten. 
