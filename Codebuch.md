@@ -61,11 +61,10 @@ Nachname oder Name der Vereinigung
 
 Art des Akteurs
 
-1= Partei
 
-2= Vereinigung
+1= Vereinigung
 
-3= Privatperson
+2= Privatperson
 
 
 **sex**
