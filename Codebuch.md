@@ -67,6 +67,17 @@ Art des Akteurs
 2= Privatperson
 
 
+**team**
+
+Partei-Zugehörigkeit
+
+1 = Landtag
+
+2 = Bundestag
+
+3 = Junge Alternative
+
+
 **sex**
 
 1= männlich
